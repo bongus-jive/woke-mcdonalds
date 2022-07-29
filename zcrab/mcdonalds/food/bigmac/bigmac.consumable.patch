@@ -1,0 +1,5 @@
+[
+  { "op" : "replace", "path" : "/shortdescription", "value" : "Ham burger" },
+  { "op" : "add", "path" : "/pickupQuestTemplates", "value" : ["pat_wokemcdonalds"] },
+  { "op" : "add", "path" : "/consumeOnPickup", "value" : true }
+]

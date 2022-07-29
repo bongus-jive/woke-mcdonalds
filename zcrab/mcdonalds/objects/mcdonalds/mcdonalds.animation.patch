@@ -1,0 +1,27 @@
+[
+  {
+    "op" : "add",
+    "path" : "/animatedParts/parts/pat_wokeback",
+    "value" : {
+      "properties" : {
+        "zLevel" : 2,
+        "offset" : [3.25, 8.25],
+        "centered" : false,
+        "image" : "<partImage>"
+      }
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/animatedParts/parts/pat_woke",
+    "value" : {
+      "properties" : {
+        "zLevel" : 3,
+        "offset" : [3.25, 8.25],
+        "centered" : false,
+        "fullbright" : true,
+        "image" : "<partImage>"
+      }
+    }
+  }
+]

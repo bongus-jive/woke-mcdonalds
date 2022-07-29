@@ -1,0 +1,17 @@
+{
+  "id" : "pat_wokemcdonalds",
+  "title" : "Woke McDonald's",
+  "text" : "",
+  "completionText" : "",
+  "moneyRange" : [0,0],
+  "rewards" : [],
+  "showInLog" : false,
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : false,
+  "showFailDialog" : false,
+  "canBeAbandoned" : false,
+	
+  "updateDelta" : 0,
+  "script" : "/zcrab/mcdonalds/food/bigmac/pat_wokemcdonalds.lua",
+  "scriptConfig" : {}
+}

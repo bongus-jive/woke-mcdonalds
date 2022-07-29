@@ -1,0 +1,17 @@
+{
+  "itemName" : "pat_organicyogurt",
+  "rarity" : "Common",
+  "price" : 40,
+  "category" : "drink",
+  "inventoryIcon" : "pat_organicyogurt.png",
+  "description" : "this isnt my Meat sandwhich!",
+  "shortdescription" : "Organic Yogurt",
+  "foodValue" : 8,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 0.8,
+  "blockingEffects" : ["wellfed"],
+  "emitters" : [ "drinking" ]
+}

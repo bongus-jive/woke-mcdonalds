@@ -1,0 +1,18 @@
+[
+  {
+    "op" : "replace",
+    "path" : "/interactData/items",
+    "value" : [
+      { "item" : "zcrab_bigmac" },
+      { "item" : "zcrab_fries", "price" : 0 },
+      { "item" : "pat_organicyogurt" },
+      { "item" : "zcrab_chickennuggets" }
+    ]
+  },
+  
+  { "op" : "add", "path" : "/animationParts/pat_wokeback", "value" : "pat_wokeback.png" },
+  { "op" : "add", "path" : "/animationParts/pat_woke", "value" : "pat_wokeright.png" },
+  
+  { "op" : "add", "path" : "/orientations/0/animationParts/pat_wokeback", "value" : "pat_wokeback.png?flipx" },
+  { "op" : "add", "path" : "/orientations/0/animationParts/pat_woke", "value" : "pat_wokeleft.png?flipx" }
+]
