@@ -1,17 +1,34 @@
 {
-  "id" : "pat_wokemcdonalds",
-  "title" : "Woke McDonald's",
-  "text" : "",
-  "completionText" : "",
-  "moneyRange" : [0,0],
-  "rewards" : [],
-  "showInLog" : false,
-  "showAcceptDialog" : false,
-  "showCompleteDialog" : false,
-  "showFailDialog" : false,
-  "canBeAbandoned" : false,
-	
-  "updateDelta" : 0,
-  "script" : "/zcrab/mcdonalds/items/food/bigmac/pat_wokemcdonalds.lua",
-  "scriptConfig" : {}
+  "id": "pat_wokemcdonalds",
+  "title": "Woke McDonald's",
+  "text": "",
+  "completionText": "",
+  "moneyRange": [ 0, 0 ],
+  "rewards": [ ],
+  "showInLog": false,
+  "showAcceptDialog": false,
+  "showCompleteDialog": false,
+  "showFailDialog": false,
+  "canBeAbandoned": false,
+
+  "updateDelta": 0,
+  "script": "/zcrab/mcdonalds/items/food/bigmac/pat_wokemcdonalds.lua",
+  "scriptConfig": {
+    "radioMessage": {
+      "messageId": "pat_wokemcdonalds",
+      "unique": false,
+      "important": true,
+      "text": "did you just assume my burger",
+      "senderName": "gay frog",
+      "portraitImage": "/zcrab/mcdonalds/items/food/bigmac/pat_wokemcdonalds.png:<frame>",
+      "portraitFrames": 2,
+      "portraitSpeed": 0.5,
+      "textSpeed": 25
+    },
+    "chatterSounds": [
+      "/sfx/humanoid/frog_chatter1.ogg",
+      "/sfx/humanoid/frog_chatter2.ogg",
+      "/sfx/humanoid/frog_chatter3.ogg"
+    ]
+  }
 }
