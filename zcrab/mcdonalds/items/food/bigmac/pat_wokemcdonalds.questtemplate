@@ -12,6 +12,6 @@
   "canBeAbandoned" : false,
 	
   "updateDelta" : 0,
-  "script" : "/zcrab/mcdonalds/food/bigmac/pat_wokemcdonalds.lua",
+  "script" : "/zcrab/mcdonalds/items/food/bigmac/pat_wokemcdonalds.lua",
   "scriptConfig" : {}
 }

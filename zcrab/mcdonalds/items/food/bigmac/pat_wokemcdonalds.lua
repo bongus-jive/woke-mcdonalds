@@ -5,7 +5,7 @@ function init()
     important = true,
     text = "Did you just Assume my burger! Im triggered!",
     senderName = "Woke McDonald's frog",
-    portraitImage = "/zcrab/mcdonalds/food/bigmac/pat_wokemcdonalds.png:<frame>",
+    portraitImage = "/zcrab/mcdonalds/items/food/bigmac/pat_wokemcdonalds.png:<frame>",
     portraitFrames = 2,
     portraitSpeed = 0.5,
     textSpeed = 25,
