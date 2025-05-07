@@ -1,18 +1,18 @@
 [
   {
-    "op" : "replace",
-    "path" : "/interactData/items",
-    "value" : [
-      { "item" : "zcrab_bigmac" },
-      { "item" : "zcrab_fries", "price" : 0 },
-      { "item" : "pat_organicyogurt" },
-      { "item" : "zcrab_chickennuggets" }
+    "op": "replace",
+    "path": "/interactData/items",
+    "value": [
+      { "item": "zcrab_bigmac" },
+      { "item": "zcrab_fries", "price": 0 },
+      { "item": "pat_organicyogurt" },
+      { "item": "zcrab_chickennuggets" }
     ]
   },
-  
-  { "op" : "add", "path" : "/orientations/1/animationParts/pat_wokeback", "value" : "pat_wokeback.png" },
-  { "op" : "add", "path" : "/orientations/1/animationParts/pat_woke", "value" : "pat_wokeright.png" },
-  
-  { "op" : "add", "path" : "/orientations/0/animationParts/pat_wokeback", "value" : "pat_wokeback.png?flipx" },
-  { "op" : "add", "path" : "/orientations/0/animationParts/pat_woke", "value" : "pat_wokeleft.png?flipx" }
+
+  { "op": "add", "path": "/orientations/1/animationParts/pat_woke_lit", "value": "pat_woke.png:right_lit" },
+  { "op": "add", "path": "/orientations/1/animationParts/pat_woke", "value": "pat_woke.png:right" },
+
+  { "op": "add", "path": "/orientations/0/animationParts/pat_woke_lit", "value": "pat_woke.png:left_lit?flipx" },
+  { "op": "add", "path": "/orientations/0/animationParts/pat_woke", "value": "pat_woke.png:left?flipx" }
 ]

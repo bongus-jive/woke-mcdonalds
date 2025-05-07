@@ -1,0 +1,12 @@
+{
+  "frameGrid": {
+    "size": [ 75, 15 ],
+    "dimensions": [ 1, 4 ],
+    "names": [
+      [ "right" ],
+      [ "right_lit" ],
+      [ "left" ],
+      [ "left_lit" ]
+    ]
+  }
+}
