@@ -1,12 +1,13 @@
 {
-  "version" : "1.0",
   "author" : "pat man",
-  "tags" : "Miscellaneous",
-  "description" : "mc donalds.. has gone WOKE and the manager is now a Pronoun.\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar",
+  "description" : "mc donalds.. has gone WOKE and the manager is now a Pronoun.",
+  "friendlyName" : "WOKE mcdonalds",
+  "includes" : ["zcrab_mcdonalds"],
+  "link" : "steam://url/CommunityFilePage/2842066467",
   "name" : "pat_wokemcdonalds",
   "priority" : 420,
-  "friendlyName" : "WOKE mcdonalds",
   "steamContentId" : "2842066467",
-  "link" : "steam://url/CommunityFilePage/2842066467",
-  "includes" : ["zcrab_mcdonalds"]
+  "steamDescription" : "mc donalds.. has gone WOKE and the manager is now a Pronoun.\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/woke-mcdonalds\n",
+  "tags" : "Miscellaneous|Food and Farming",
+  "version" : "1.0.1"
 }
